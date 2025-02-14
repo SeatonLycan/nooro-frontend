@@ -13,7 +13,7 @@ export default {
         'light-blue': "#4EA8DE",
         'medium-blue': "#1E6F9F",
         'light-purple': "#5E60CE",
-        'light-gray': "#808080"
+        'light-gray': "#808080",
       },
     },
   },
