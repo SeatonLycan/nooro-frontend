@@ -11,9 +11,13 @@ export default {
       colors: {
         background: "#0D0D0D",
         'light-blue': "#4EA8DE",
-        'light-purple': "#5E60CE"
+        'medium-blue': "#1E6F9F",
+        'light-purple': "#5E60CE",
+        'light-gray': "#808080"
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('daisyui')
+  ],
 } satisfies Config;
